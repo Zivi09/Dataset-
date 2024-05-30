@@ -1,0 +1,229 @@
+ImageID,Label
+M01_01,Monkeypox
+M01_02,Monkeypox
+M01_03,Monkeypox
+M01_04,Monkeypox
+M02_01,Monkeypox
+M02_02,Monkeypox
+M03_01,Monkeypox
+M04_01,Monkeypox
+M05_01,Monkeypox
+M05_02,Monkeypox
+M06_01,Monkeypox
+M06_02,Monkeypox
+M07_01,Monkeypox
+M08_01,Monkeypox
+M09_01,Monkeypox
+M09_02,Monkeypox
+M09_03,Monkeypox
+M09_04,Monkeypox
+M10_01,Monkeypox
+M10_02,Monkeypox
+M11_01,Monkeypox
+M12_01,Monkeypox
+M13_01,Monkeypox
+M14_01,Monkeypox
+M15_01,Monkeypox
+M16_01,Monkeypox
+M17_01,Monkeypox
+M17_02,Monkeypox
+M18_01,Monkeypox
+M18_02,Monkeypox
+M19_01,Monkeypox
+M19_02,Monkeypox
+M20_01,Monkeypox
+M20_02,Monkeypox
+M21_01,Monkeypox
+M21_02,Monkeypox
+M22_01,Monkeypox
+M23_01,Monkeypox
+M24_01,Monkeypox
+M24_02,Monkeypox
+M25_01,Monkeypox
+M25_02,Monkeypox
+M26_01,Monkeypox
+M26_02,Monkeypox
+M27_01,Monkeypox
+M28_01,Monkeypox
+M28_02,Monkeypox
+M28_03,Monkeypox
+M28_04,Monkeypox
+M29_01,Monkeypox
+M29_02,Monkeypox
+M30_01,Monkeypox
+M30_02,Monkeypox
+M31_01,Monkeypox
+M31_02,Monkeypox
+M32_01,Monkeypox
+M32_02,Monkeypox
+M32_03,Monkeypox
+M32_04,Monkeypox
+M33_01,Monkeypox
+M33_02,Monkeypox
+M34_01,Monkeypox
+M34_02,Monkeypox
+M34_03,Monkeypox
+M34_04,Monkeypox
+M35_01,Monkeypox
+M35_02,Monkeypox
+M36_01,Monkeypox
+M37_01,Monkeypox
+M38_01,Monkeypox
+M38_02,Monkeypox
+M39_01,Monkeypox
+M39_02,Monkeypox
+M40_01,Monkeypox
+M40_02,Monkeypox
+M40_03,Monkeypox
+M41_01,Monkeypox
+M42_01,Monkeypox
+M42_02,Monkeypox
+M43_01,Monkeypox
+M43_02,Monkeypox
+M43_03,Monkeypox
+M44_01,Monkeypox
+M45_01,Monkeypox
+M46_01,Monkeypox
+M46_02,Monkeypox
+M47_01,Monkeypox
+M48_01,Monkeypox
+M48_02,Monkeypox
+M48_03,Monkeypox
+M49_01,Monkeypox
+M49_02,Monkeypox
+M49_03,Monkeypox
+M50_01,Monkeypox
+M50_02,Monkeypox
+M50_03,Monkeypox
+M51_01,Monkeypox
+M51_02,Monkeypox
+M52_01,Monkeypox
+M53_01,Monkeypox
+M54_01,Monkeypox
+M55_01,Monkeypox
+NM01_01,Non Monkeypox
+NM02_01,Non Monkeypox
+NM03_01,Non Monkeypox
+NM04_01,Non Monkeypox
+NM05_01,Non Monkeypox
+NM06_01,Non Monkeypox
+NM07_01,Non Monkeypox
+NM08_01,Non Monkeypox
+NM09_01,Non Monkeypox
+NM10_01,Non Monkeypox
+NM11_01,Non Monkeypox
+NM12_01,Non Monkeypox
+NM13_01,Non Monkeypox
+NM14_01,Non Monkeypox
+NM15_01,Non Monkeypox
+NM15_02,Non Monkeypox
+NM17_01,Non Monkeypox
+NM18_01,Non Monkeypox
+NM19_01,Non Monkeypox
+NM20_01,Non Monkeypox
+NM21_01,Non Monkeypox
+NM22_01,Non Monkeypox
+NM23_01,Non Monkeypox
+NM24_01,Non Monkeypox
+NM25_01,Non Monkeypox
+NM26_01,Non Monkeypox
+NM27_01,Non Monkeypox
+NM28_01,Non Monkeypox
+NM29_01,Non Monkeypox
+NM30_01,Non Monkeypox
+NM31_01,Non Monkeypox
+NM32_01,Non Monkeypox
+NM33_01,Non Monkeypox
+NM33_02,Non Monkeypox
+NM35_01,Non Monkeypox
+NM36_01,Non Monkeypox
+NM37_01,Non Monkeypox
+NM38_01,Non Monkeypox
+NM39_01,Non Monkeypox
+NM40_01,Non Monkeypox
+NM41_01,Non Monkeypox
+NM41_02,Non Monkeypox
+NM42_01,Non Monkeypox
+NM43_01,Non Monkeypox
+NM43_02,Non Monkeypox
+NM43_03,Non Monkeypox
+NM43_04,Non Monkeypox
+NM43_05,Non Monkeypox
+NM44_01,Non Monkeypox
+NM45_01,Non Monkeypox
+NM45_02,Non Monkeypox
+NM46_01,Non Monkeypox
+NM47_01,Non Monkeypox
+NM47_02,Non Monkeypox
+NM48_01,Non Monkeypox
+NM49_01,Non Monkeypox
+NM50_01,Non Monkeypox
+NM51_01,Non Monkeypox
+NM52_01,Non Monkeypox
+NM53_01,Non Monkeypox
+NM54_01,Non Monkeypox
+NM54_02,Non Monkeypox
+NM55_01,Non Monkeypox
+NM55_02,Non Monkeypox
+NM56_01,Non Monkeypox
+NM56_02,Non Monkeypox
+NM57_01,Non Monkeypox
+NM57_02,Non Monkeypox
+NM58_01,Non Monkeypox
+NM58_02,Non Monkeypox
+NM59_01,Non Monkeypox
+NM60_01,Non Monkeypox
+NM61_01,Non Monkeypox
+NM62_01,Non Monkeypox
+NM63_01,Non Monkeypox
+NM64_01,Non Monkeypox
+NM65_01,Non Monkeypox
+NM66_01,Non Monkeypox
+NM67_01,Non Monkeypox
+NM68_01,Non Monkeypox
+NM69_01,Non Monkeypox
+NM70_01,Non Monkeypox
+NM71_01,Non Monkeypox
+NM72_01,Non Monkeypox
+NM73_01,Non Monkeypox
+NM74_01,Non Monkeypox
+NM75_01,Non Monkeypox
+NM76_01,Non Monkeypox
+NM77_01,Non Monkeypox
+NM78_01,Non Monkeypox
+NM79_01,Non Monkeypox
+NM80_01,Non Monkeypox
+NM81_01,Non Monkeypox
+NM82_01,Non Monkeypox
+NM83_01,Non Monkeypox
+NM84_01,Non Monkeypox
+NM85_01,Non Monkeypox
+NM86_01,Non Monkeypox
+NM87_01,Non Monkeypox
+NM88_01,Non Monkeypox
+NM89_01,Non Monkeypox
+NM90_01,Non Monkeypox
+NM91_01,Non Monkeypox
+NM91_02,Non Monkeypox
+NM93_01,Non Monkeypox
+NM94_01,Non Monkeypox
+NM95_01,Non Monkeypox
+NM96_01,Non Monkeypox
+NM97_01,Non Monkeypox
+NM98_01,Non Monkeypox
+NM98_02,Non Monkeypox
+NM99_01,Non Monkeypox
+NM99_02,Non Monkeypox
+NM100_01,Non Monkeypox
+NM101_01,Non Monkeypox
+NM101_02,Non Monkeypox
+NM102_01,Non Monkeypox
+NM103_01,Non Monkeypox
+NM103_02,Non Monkeypox
+NM104_01,Non Monkeypox
+NM105_01,Non Monkeypox
+NM106_01,Non Monkeypox
+NM107_01,Non Monkeypox
+NM108_01,Non Monkeypox
+NM109_01,Non Monkeypox
+NM110_01,Non Monkeypox
