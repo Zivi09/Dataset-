@@ -27,7 +27,7 @@ To use a dataset from this repository:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/DataSet-Repository.git
+   git clone https://github.com/Zivi09/DataSet-Repository.git
    ```
 
 2. Navigate to the dataset of interest:
